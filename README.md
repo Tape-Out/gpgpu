@@ -1,4 +1,4 @@
-# gpgpu
+# vortex
 
 Vortex, the open-source RISC-V GPGPU, taken as a black box.
 
